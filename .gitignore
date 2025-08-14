@@ -45,3 +45,5 @@
 fp-info-cache
 *.kicad_pcb-bak
 hold
+*.kicad_*.lck
+*.kicad_prl
